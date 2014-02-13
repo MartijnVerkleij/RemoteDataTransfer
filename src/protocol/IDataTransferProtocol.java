@@ -1,7 +1,7 @@
-package protocol;
+package src.protocol;
 
-import client.INetworkLayerAPI;
-import client.ITimeoutEventHandler;
+import src.client.INetworkLayerAPI;
+import src.client.ITimeoutEventHandler;
 
 /**
  * 

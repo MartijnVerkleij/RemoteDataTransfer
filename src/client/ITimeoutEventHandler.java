@@ -1,4 +1,4 @@
-package client;
+package src.client;
 
 /**
  * Interface for timeout event handlers

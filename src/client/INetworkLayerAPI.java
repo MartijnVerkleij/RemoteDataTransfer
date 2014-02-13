@@ -1,4 +1,4 @@
-package client;
+package src.client;
 
 /**
  * Represents the network layer which takes care of sending and receiving data packets.

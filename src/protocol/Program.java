@@ -1,14 +1,14 @@
-package protocol;
+package src.protocol;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-import protocol.IDataTransferProtocol.TransferMode;
+import src.protocol.IDataTransferProtocol.TransferMode;
 
 import java.util.zip.CRC32;
 
-import client.*;
+import src.client.*;
 
 /**
  * 

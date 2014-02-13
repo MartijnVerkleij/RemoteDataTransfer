@@ -1,10 +1,10 @@
-package protocol;
+package src.protocol;
 
 import java.io.*;
 import java.nio.file.Paths;
 
-import client.*;
-import client.INetworkLayerAPI.TransmissionResult;
+import src.client.*;
+import src.client.INetworkLayerAPI.TransmissionResult;
 
 /**
  * 

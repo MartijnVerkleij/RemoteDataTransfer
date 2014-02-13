@@ -1,4 +1,4 @@
-package client;
+package src.client;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -6,7 +6,7 @@ import java.net.ProtocolException;
 import java.net.Socket;
 import java.util.LinkedList;
 
-import client.INetworkLayerAPI.TransmissionResult;
+import src.client.INetworkLayerAPI.TransmissionResult;
 
 /**
  * 
